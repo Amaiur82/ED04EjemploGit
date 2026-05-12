@@ -2,8 +2,7 @@
 package ed.ud04ejemplogit;
 
 /**
- * Descripcion de la clase esto es para SSH
- *
+ * Descripcion de la clase esto es para SSH prueba 2 SSH
  *
  * @author amaiur
  */
