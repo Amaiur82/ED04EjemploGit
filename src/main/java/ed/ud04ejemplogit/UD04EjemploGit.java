@@ -2,9 +2,10 @@
 package ed.ud04ejemplogit;
 
 /**
- * Descripcion de la clase
+ * Descripcion de la clase esto es para SSH
  *
- * @author amaiu
+ *
+ * @author amaiur
  */
 public class UD04EjemploGit {
 
