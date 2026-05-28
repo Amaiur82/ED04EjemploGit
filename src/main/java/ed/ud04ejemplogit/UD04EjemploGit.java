@@ -6,7 +6,7 @@ package ed.ud04ejemplogit;
  *
  * pruebas de GitHub otra persona
  *
- * @author amaiu
+ * @author amaiururr
  */
 public class UD04EjemploGit {
 
