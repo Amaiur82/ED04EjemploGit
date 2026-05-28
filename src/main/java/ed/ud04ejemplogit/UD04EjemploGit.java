@@ -5,7 +5,8 @@ package ed.ud04ejemplogit;
  * Descripcion de la clase esto es para SSH prueba 2 SSH
  *
  * pruebas de GitHub otra persona
- * @author amaiur
+ *
+ * @author amaiu
  */
 public class UD04EjemploGit {
 
